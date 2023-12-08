@@ -24,9 +24,8 @@ body{
 
 nav {
     text-align: center;
-    background size: 50% auto;
-    border-radius: 10%;  
-    transform: translateX(center);
+    background-size: 50% auto;
+    border-radius: 10%;  =
     background-repeat: no-repeat;
     font-size: 20px;
     text-shadow: 3px 3px 3px rgb(0, 0, 0);
