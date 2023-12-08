@@ -1,0 +1,86 @@
+header {
+    font-size: 150px;
+    text-align: center;
+    font-family: myFirstFont;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(NEONLEDLight.otf);
+}
+
+body{
+    background-image: url(Cincy.JPG);
+    background-size:cover;
+    font-family: myFirstFont;
+    background-repeat: no-repeat;
+    background-color: navy;
+   
+    
+   
+}
+
+nav {
+    text-align: center;
+    background size: 50% auto;
+    border-radius: 10%;  
+    transform: translateX(center);
+    background-repeat: no-repeat;
+    font-size: 20px;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+    
+    
+    
+   
+}
+
+nav li {
+    display: inline;
+    font-size: 200%;
+    margin-right: 20px;
+    color: #ffffff;
+   
+   
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+main{
+   
+
+  
+}
+
+article {
+    text-align: center;
+    color: #ffffff;
+    font-size: 200%;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+
+.container {
+    text-align: center;
+   font-size: 30px;
+   color: white;
+   background-color:rgb(21, 123, 186);
+   padding: 1%;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   font-family: Arial, Helvetica, sans-serif;
+   border-radius: 10%;
+   width: 35%;
+   margin-left: 31%;
+   text-shadow: 3px 3px 3px rgb(0, 0, 0);
+   box-shadow: 3px 3px 3px rgb(0, 0, 0);
+} 
+   
